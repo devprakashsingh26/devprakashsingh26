@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 ```js
-const dev = {
+
   name: "Dev Prakash Singh",
   role: "Aspiring Software Developer",
   education: "B.Tech CSE (3rd Year) @ BBD University, Lucknow",
@@ -29,7 +29,7 @@ const dev = {
   currentlyLearning: ["Advanced React", "System Design"],
   lookingFor: "Internships & opportunities to build real-world products",
   funFact: "I debug with console.log and I'm not ashamed 😄"
-};
+
 ```
 
 - 🔭 Building full-stack web apps with **React** and **Node.js**
