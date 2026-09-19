@@ -18,7 +18,7 @@ Currently, I'm working with:
 
 ## Featured projects
 
-- **[Project Name]** — [One-sentence description of what it does.]
+- **[Sigma Web Development Course ]** — [Sigma Web Development Course Projects — a collection of front-end projects built while learning HTML, CSS, and JavaScript.]
   [Repository link] · [Live demo link]
 
 - **[Project Name]** — [One-sentence description of what it does.]
