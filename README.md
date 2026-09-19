@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 ```js
-
+const dev = {
   name: "Dev Prakash Singh",
   role: "Aspiring Software Developer",
   education: "B.Tech CSE (3rd Year) @ BBD University, Lucknow",
@@ -29,7 +29,7 @@
   currentlyLearning: ["Advanced React", "System Design"],
   lookingFor: "Internships & opportunities to build real-world products",
   funFact: "I debug with console.log and I'm not ashamed 😄"
-
+};
 ```
 
 - 🔭 Building full-stack web apps with **React** and **Node.js**
@@ -87,12 +87,17 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devsinghrajpootd007-blip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://img.shields.io/github/followers/devsinghrajpootd007-blip?label=Followers&style=for-the-badge&logo=github&color=00b4d8" />
+<img src="https://img.shields.io/badge/Public%20Repos-Growing-2c5364?style=for-the-badge&logo=github" />
+
+<br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devsinghrajpootd007-blip&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsinghrajpootd007-blip&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devsinghrajpootd007-blip&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=devsinghrajpootd007-blip&theme=tokyonight&hide_border=true" />
 
 </div>
 
