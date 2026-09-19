@@ -21,7 +21,7 @@ Currently, I'm working with:
 - **[Sigma Web Development Course ]** — [Sigma Web Development Course Projects — a collection of front-end projects built while learning HTML, CSS, and JavaScript.]
   (https://github.com/devprakashsingh26/sigma-web-dev-course.git) 
 
-- **[Project Name]** — [One-sentence description of what it does.]
+- **[Java Programs]** — [Includes 48-plus implementations covering arrays, linked lists, stacks, queues, and more, written to strengthen DSA fundamentals.]
   [https://github.com/devprakashsingh26/Java-Programs.git]
 
 ## Currently learning
