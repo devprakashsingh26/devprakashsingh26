@@ -11,7 +11,7 @@
 
 <a href="https://www.linkedin.com/in/dev-prakash-singh-63293a337"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:devsinghrajpootd007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=devsinghrajpootd007-blip&label=Profile%20Views&color=00b4d8&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=devprakashsingh26&label=Profile%20Views&color=00b4d8&style=for-the-badge" />
 
 </div>
 
@@ -39,6 +39,29 @@
 
 ---
 
+## 🎯 Currently
+
+```text
+🔭 Working On   : Full-stack personal projects (React + Node.js + PostgreSQL/MongoDB)
+🌱 Learning     : Advanced React, System Design, DSA in Java & C++
+🤝 Open To      : Internships, freelance gigs, open-source collaboration
+💬 Ask Me About : Web development, DBMS, competitive coding
+⚡ Fun Fact     : I debug with console.log and I'm not ashamed 😄
+```
+
+---
+
+## 🎓 Education Timeline
+
+```text
+2028 (Expected)  🎓  B.Tech, Computer Science & Engineering
+                     Babu Banarasi Das University, Lucknow — CGPA 9.04
+
+2023             🏫  12th — Indian Public School, Basti — 81%
+
+2021             🏫  10th — Indian Public School, Basti — 91%
+```
+
 ## 🛠️ Tech Stack
 
 **🎨 Frontend**
@@ -61,6 +84,20 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
+
+**📈 Proficiency**
+
+```text
+JavaScript   ███████████████████░  90%
+React        █████████████████░░░  85%
+Python       █████████████████░░░  85%
+Java         ████████████████░░░░  80%
+C++          ███████████████░░░░░  75%
+Node.js      ████████████████░░░░  80%
+MongoDB      ██████████████░░░░░░  70%
+PostgreSQL   █████████████░░░░░░░  65%
+```
+
 ---
 
 ## 🚀 Featured Projects
@@ -69,7 +106,7 @@
 |---|---|---|
 | 🏫 **Rural Education Platform** | Web platform for rural education access with offline-friendly video lessons, quizzes and progress tracking, built on low-bandwidth REST APIs | React · Node.js · Express · MySQL · Docker |
 | 🏥 **Patient Case-Taking Software** | Web app for clinics to record and manage patient case histories, symptoms, diagnoses and prescriptions, with search and filters | React · Node.js · Express · MySQL · Docker |
-| ☕ **[Java-Programs](https://github.com/devsinghrajpootd007-blip/Java-Programs)** | 48+ Java data structure practice programs | Java |
+| ☕ **[Java-Programs](https://github.com/devprakashsingh26/Java-Programs)** | 48+ Java data structure practice programs | Java |
 
 ---
 
@@ -87,17 +124,17 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/devsinghrajpootd007-blip?label=Followers&style=for-the-badge&logo=github&color=00b4d8" />
+<img src="https://img.shields.io/github/followers/devprakashsingh26?label=Followers&style=for-the-badge&logo=github&color=00b4d8" />
 <img src="https://img.shields.io/badge/Public%20Repos-Growing-2c5364?style=for-the-badge&logo=github" />
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devsinghrajpootd007-blip&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsinghrajpootd007-blip&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devprakashsingh26&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devprakashsingh26&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=devsinghrajpootd007-blip&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=devprakashsingh26&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -111,8 +148,21 @@ I'm always up for a chat about code, projects or opportunities.
 
 <a href="https://www.linkedin.com/in/dev-prakash-singh-63293a337"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto:devsinghrajpootd007@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- Add more badges below if you make these -->
+<!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
+<!-- <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 
 *⭐ If you like what you see, drop a star on my repos!*
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Moment
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
 
