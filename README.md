@@ -19,10 +19,10 @@ Currently, I'm working with:
 ## Featured projects
 
 - **[Sigma Web Development Course ]** — [Sigma Web Development Course Projects — a collection of front-end projects built while learning HTML, CSS, and JavaScript.]
-  [Repository link] · [Live demo link]
+  (https://github.com/devprakashsingh26/sigma-web-dev-course.git) 
 
 - **[Project Name]** — [One-sentence description of what it does.]
-  [Repository link] · [Live demo link]
+  [https://github.com/devprakashsingh26/Java-Programs.git]
 
 ## Currently learning
 
