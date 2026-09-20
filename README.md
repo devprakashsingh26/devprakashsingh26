@@ -104,7 +104,7 @@ PostgreSQL   █████████████░░░░░░░  65%
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏫 **Rural Education Platform** | Web platform for rural education access with offline-friendly video lessons, quizzes and progress tracking, built on low-bandwidth REST APIs | React · Node.js · Express · MySQL · Docker |
+| 🏫 **[Rural Education Platform](https://github.com/devprakashsingh26/Rural-Education-Project)** | Web platform for rural education access with offline-friendly video lessons, quizzes and progress tracking, built on low-bandwidth REST APIs | React · Node.js · Express · MySQL · Docker |
 | 🏥 **Patient Case-Taking Software** | Web app for clinics to record and manage patient case histories, symptoms, diagnoses and prescriptions, with search and filters | React · Node.js · Express · MySQL · Docker |
 | ☕ **[Java-Programs](https://github.com/devprakashsingh26/Java-Programs)** | 48+ Java data structure practice programs | Java |
 
